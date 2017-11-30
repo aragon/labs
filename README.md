@@ -15,7 +15,7 @@ We encourage community participation and discussion. Here is how you can get inv
 3. Contribute to development of Aragon Laps projects
 
 ### Submission
-Anyone may submit an Aragon Labs Proposal draft. To do so create an issue using (ALP01)[https://github.com/aragon/labs/issues/1] as a template. 
+Anyone may submit an Aragon Labs Proposal draft. To do so create an issue using [ALP01](https://github.com/aragon/labs/issues/1) as a template. 
 
 Once submitted they can be reviewed and discussed by the community. The following status values will be used by the Aragon Labs team to help organize proposals. 
 
